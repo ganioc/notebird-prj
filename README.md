@@ -5,7 +5,7 @@ Notebird notes management.
 
 
 ## Ref
-- gnu-global
+- gnu-global (tag system)
     origin  https://github.com/harai/gnu-global.git (fetch)
 
 
@@ -14,6 +14,10 @@ Notebird notes management.
 files under data/ dir.
 database store file indexing.
 使用SqlLite存储，以后再换
+
+Service Discovery
+* mDNS
+
 
 
 ## UI
